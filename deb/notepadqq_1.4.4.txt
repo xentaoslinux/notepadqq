@@ -1,0 +1,4 @@
+https://launchpad.net/~notepadqq-team/+archive/ubuntu/notepadqq/+files/notepadqq_1.4.4-1~xenial1_i386.deb
+https://launchpad.net/~notepadqq-team/+archive/ubuntu/notepadqq/+files/notepadqq_1.4.4-1~xenial1_amd64.deb
+https://launchpad.net/~notepadqq-team/+archive/ubuntu/notepadqq/+files/notepadqq-gtk_1.4.4-1~xenial1_all.deb
+https://launchpad.net/~notepadqq-team/+archive/ubuntu/notepadqq/+files/notepadqq-common_1.4.4-1~xenial1_all.deb
